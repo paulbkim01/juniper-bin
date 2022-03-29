@@ -1,2 +1,3 @@
 # juniper-bin
-An app where you can save your own code snippet
+Save your code snippets with ease. 
+This repository is for my own learning purpose only. 
